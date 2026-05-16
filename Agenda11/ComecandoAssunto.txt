@@ -1,0 +1,131 @@
+CONTABILIDADE
+
+ A contabilidade é a ciência que registra, organiza e analisa as informações financeiras de uma empresa, permitindo acompanhar seu patrimônio e auxiliar os gestores na tomada de decisões.
+
+Na contabilidade, um conceito muito importante é o de patrimônio, que representa tudo o que a empresa possui e tudo o que ela deve.  O patrimônio é composto por:
+• Bens;
+• Direitos;
+• Obrigações.
+
+BENS
+São tudo aquilo que a empresa possui e que pode ser utilizado em suas atividades.
+
+✔️ Quanto à natureza:
+
+Bens tangíveis: são os bens físicos, que podem ser tocados.
+Ex.: caminhões, computadores, móveis, mercadorias.
+Bens intangíveis: não possuem forma física, mas têm valor econômico.
+Ex.: marca da empresa, softwares, patentes.
+ 
+
+✔️ Quanto à classificação:
+
+·       Bens de consumo: utilizados para atender necessidades e não participam diretamente da produção.
+
+o   Duráveis: podem ser usados por mais tempo.
+Ex.: automóveis, eletrodomésticos.
+
+o   Não duráveis: são consumidos rapidamente.
+Ex.: combustível, materiais de limpeza.
+
+·       Bens de capital e produção: utilizados na produção de outros bens ou serviços.
+Ex.: máquinas, equipamentos, veículos da empresa.
+
+
+
+DIREITO
+
+
+São valores que a empresa tem a receber de terceiros, ou seja, representam recursos que entrarão no caixa no futuro. Surgem, principalmente, quando a empresa realiza vendas a prazo ou possui valores aplicados.
+
+Os direitos são importantes porque indicam recursos que ainda serão recebidos, contribuindo para o planejamento financeiro.
+
+Exemplos:
+
+·       Clientes que compraram a prazo (duplicatas a receber);
+
+·       Aluguéis a receber;
+
+·       Aplicações financeiras;
+
+·       Adiantamentos feitos a fornecedores.
+
+ 
+
+💡 Exemplo do dia a dia: Imagine que você vendeu um celular para um amigo e combinou que ele vai te pagar no mês que vem. Esse valor que você ainda vai receber é um direito — o dinheiro ainda não está com você, mas já é seu.
+
+
+
+
+
+OBRIGAÇÕES
+
+São dívidas e compromissos que a empresa precisa pagar a terceiros. Representam saídas futuras de recursos e devem ser controladas para evitar problemas financeiros.
+
+As obrigações são essenciais para entender o quanto a empresa deve e organizar seus pagamentos, mantendo a saúde financeira do negócio.
+
+Exemplos:
+
+·       Contas a pagar a fornecedores;
+
+·       Salários e encargos;
+
+·       Impostos;
+
+·       Empréstimos e financiamentos.
+
+💡 Exemplo do dia a dia: Pense quando você compra algo parcelado no cartão ou pega dinheiro emprestado. Você já tem o produto ou o dinheiro, mas ainda precisa pagar por ele. Isso é uma obrigação — um compromisso que você assumiu e deverá cumprir no futuro.
+
+
+
+
+
+PATRIMONIO LIQUIDO
+
+Representa justamente essa parte “que sobra” após o pagamento das obrigações. Ele é formado pelos investimentos dos sócios e pelos resultados acumulados ao longo do tempo. Por isso, é um indicador importante da saúde financeira do negócio: quando positivo, indica maior estabilidade; quando negativo, sinaliza riscos.
+
+
+
+
+
+BALANÇO PATRIMONIAL
+
+é como uma foto da empresa em um determinado momento. Ele mostra, de forma organizada, como está a situação financeira do negócio. o balanço mostra de onde vem o dinheiro e onde ele está aplicado.
+
+
+Classificação dos Ativos (Liquidez)
+
+iquidez é a capacidade que um bem ou direito tem de se transformar em dinheiro, considerando principalmente a rapidez e a facilidade dessa conversão. Em outras palavras, quanto mais rápido um recurso pode virar dinheiro sem perda de valor, maior é sua liquidez. Esse conceito é fundamental porque nem tudo que a empresa possui está disponível para uso imediato: enquanto o dinheiro em caixa pode ser utilizado na hora, outros itens, como estoques ou equipamentos, precisam passar por etapas até se converterem em recursos financeiros.
+
+ 
+
+Liquidez = facilidade de virar dinheiro 💰
+
+
+
+ 
+
+⏳ Classificação do Passivo (Exigibilidade)
+
+Assim como os ativos têm liquidez, o passivo é organizado pela exigibilidade, ou seja, o prazo em que as dívidas precisam ser pagas.
+
+👉 Isso ajuda a entender quando o dinheiro vai sair do caixa.
+
+
+
+
+
+🧾 Patrimônio Líquido: o que realmente é do dono
+
+O Patrimônio Líquido (PL) representa a parte que realmente pertence aos sócios.
+É o resultado da diferença entre tudo o que a empresa tem e tudo o que ela deve.
+
+👉 Em outras palavras:
+é o que sobra depois de pagar todas as dívidas.
+
+
+
+🚀 Conclusão prática
+
+O Passivo mostra o que a empresa deve.
+O Patrimônio Líquido mostra o que realmente é dela.

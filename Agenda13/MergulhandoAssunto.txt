@@ -1,0 +1,94 @@
+Planejamento Financeiro nas Organizações
+
+O planejamento financeiro pode ser entendido como o processo de organizar, prever e controlar os recursos da empresa, buscando manter o equilíbrio entre o que entra (receitas) e o que sai (despesas). No caso da Ponto da Moto, muitas decisões eram tomadas com base na urgência e na empolgação, como comprar mais peças ou ampliar o estoque, sem uma análise clara do dinheiro disponível.
+
+image.png
+
+Plano Financeiro nas Organizações
+
+ 
+
+O plano financeiro funciona como um guia: ele ajuda a empresa a definir metas, planejar ações e controlar o uso do dinheiro, garantindo equilíbrio entre o que a empresa deseja fazer e o que realmente pode sustentar.
+
+
+image.png
+ fluxo de caixa é uma ferramenta essencial para organizar e acompanhar o dinheiro que entra e sai da empresa. Na história da Ponto da Moto, foi justamente a falta desse controle que levou Bruno a tomar decisões sem saber a real situação financeira da loja.
+
+ 
+
+📌 O que entra no fluxo de caixa?
+
+Entradas: vendas de peças e acessórios, recebimentos de clientes
+Saídas: compras de estoque, aluguel, salários, contas e outras despesas
+ 
+
+
+No início, a Ponto da Moto vendia bem, mas não controlava essas informações. O problema não era a falta de vendas, e sim a falta de organização.
+
+image.png
+Para funcionar bem, o fluxo de caixa precisa ser atualizado com frequência, registrando todas as entradas e saídas de forma correta. Sem isso, as informações perdem valor.
+
+ 
+
+Outro ponto importante é o saldo:
+
+
+Positivo: entra mais dinheiro do que sai
+Negativo: alerta para ajustes e redução de gastos
+
+Construindo o Fluxo de Caixa
+
+1. Recebimentos
+
+👉 Receita = Quantidade vendida × Preço unitário
+
+Mas há um ponto essencial: quando o dinheiro entra no caixa.
+Nem toda venda significa dinheiro imediato:
+
+À vista: entra na hora
+A prazo: entra nos meses seguintes
+
+2. Compra de Mercadorias
+além das vendas, era fundamental planejar bem as compras de peças, já que isso impacta diretamente o caixa da empresa.  equilibrar melhor estoque e caixa, evitando compras em excesso e mantendo a saúde financeira
+
+3. Outras Despesas
+Existem também as despesas operacionais, necessárias para manter a loja funcionando no dia a dia. Esses gastos não estão ligados diretamente às vendas, mas são essenciais para o negócio.
+
+4. Fluxo de Caixa Consolidado
+image.png📌 Como interpretar:
+Entradas: vendas à vista + recebimentos a prazo
+Saídas: compras (à vista e a prazo) + despesas
+Saldo final: resultado do mês (considerando o saldo anterior)
+O saldo final de um mês vira o saldo inicial do próximo
+ 
+
+🎯 Qual o aprendizado?
+
+Mesmo vendendo bem, o caixa pode ficar negativo
+O problema não é só vender, mas equilibrar entradas e saídas
+O fluxo de caixa ajuda a antecipar dificuldades e corrigir decisões
+
+
+
+
+💡 Dica importante:
+
+ 
+
+Na contabilidade, valores negativos não são representados com o sinal de menos (-), mas sim entre parênteses.
+
+👉 Exemplo:
+
+Em vez de escrever -6.300, o correto é (6.300)
+ 
+
+📌 Por que usar parênteses?
+
+Facilita a leitura dos relatórios
+Evita confusões na interpretação dos dados
+Segue o padrão utilizado em demonstrações *contábeis
+ 
+
+✅ Sempre que o resultado indicar prejuízo, saldo negativo ou saída maior que entrada, utilize parênteses para representar esse valor.
+
+*não basta vender bem — é preciso controlar e planejar para garantir a sustentabilidade do negócio.*

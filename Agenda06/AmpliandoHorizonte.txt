@@ -1,0 +1,5 @@
+Henry Gantt e o planejamento das atividades
+
+Henry Laurence Gantt nasceu nos Estados Unidos, em 1861. Formou-se em engenharia mecânica e rapidamente se interessou por organização do trabalho e eficiência nas empresas. Durante seus estudos Gantt aprendeu a importância de estudar, planejar e padronizar as tarefas para aumentar a produtividade, com isso veio sua preocupação a esta vertente, de modo que ele criou o Grafico de Gantt, uma ferramenta visual que ajuda a visualizar e acompanhar as tarefas de um projeto.
+
+O gráfico de Gantt é uma ferramenta amplamente usada em empresas para planejamento operacional, cronogramas de atividades e acompanhamento de projetos. Ele mostra que técnicas desenvolvidas há mais de 100 anos continuam aplicáveis e essenciais para o sucesso das organizações modernas.

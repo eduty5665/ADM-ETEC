@@ -1,0 +1,63 @@
+DRE (Demonstração do Resultado do Exercício)
+
+A DRE é um relatório contábil que mostra se a empresa teve lucro ou prejuízo em um determinado período, como um mês ou um ano.
+
+Enquanto o Balanço Patrimonial é uma “foto” da empresa, a DRE funciona como um filme, mostrando tudo o que aconteceu ao longo do tempo.
+
+
+
+Tudo começa com a Receita Bruta de Vendas (total vendido)
+
+Depois são descontados impostos e devoluções → chegando à Receita Líquida
+
+Em seguida, retiram-se os custos → obtendo o Lucro Bruto
+
+
+Depois, são descontadas as despesas → chegando ao resultado
+No final, temos:
+Lucro (quando sobra dinheiro)
+Prejuízo (quando os gastos são maiores que as receitas)
+
+
+
+A DRE ajuda a responder perguntas essenciais:
+
+·       A empresa está dando lucro ou prejuízo?
+
+·       Onde estão os maiores gastos?
+
+·       O negócio é sustentável no longo prazo?
+
+ 
+
+Além disso, permite:
+
+📊 Comparar períodos
+
+🎯 Definir metas
+
+
+📈 Acompanhar a evolução dos resultados 
+
+
+
+Depreciação
+
+A depreciação é um conceito contábil que representa a perda de valor dos bens ao longo do tempo.
+
+Isso acontece por vários motivos, como:
+
+🛠️ Uso no dia a dia
+
+⏳ Desgaste natural
+
+📅 Passagem do tempo
+
+💻 Obsolescência (quando o bem fica ultrapassado)
+
+ 
+
+Na contabilidade, a depreciação é aplicada principalmente aos bens do ativo imobilizado, como máquinas, equipamentos, veículos e móveis — ou seja, bens que a empresa utiliza em suas atividades e que têm uma vida útil limitada.
+
+ A ideia não é lançar todo o custo de um bem de uma vez só. Em vez disso, o valor é dividido ao longo do tempo de uso.
+Assim, a cada período, uma parte desse valor é registrada como despesa, refletindo melhor o uso do bem e ajudando a apurar o resultado da empresa de forma mais realista.

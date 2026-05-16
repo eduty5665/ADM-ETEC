@@ -1,0 +1,129 @@
+
+A pesquisa de mercado é uma ferramenta para obter informações valiosas sobre o mercado em que se atua ou se pretende atuar. Ela vai oferecer um conhecimento estratégico para a tomada de decisões que vai melhorar o desempenho do negócio e o relacionamento com os clientes, fornecedores e com o mercado em geral. Enfim, ela serve para ajudar a resolver problemas que qualquer negócio eventualmente venha a enfrentar.
+
+Definição do Problema e Objetivos da Pesquisa
+
+Para que uma pesquisa de mercado funcione de verdade e traga bons resultados, é muito importante começar com um bom planejamento. As primeiras etapas — definir o problema e estabelecer os objetivos — são essenciais, pois ajudam a direcionar todo o processo.O problema de pesquisa é, basicamente, a dúvida ou dificuldade que a empresa quer resolver. É a pergunta principal que precisa de resposta.Quando esse problema não está bem definido, a pesquisa pode ficar confusa e sem foco.
+
+
+
+nstrumentos de Coleta de Dados na Pesquisa de Mercado
+
+ 
+
+Depois de definir o problema e os objetivos da pesquisa, o próximo passo é escolher como as informações serão coletadas. Para isso, utilizamos os chamados instrumentos de coleta de dados, que são as ferramentas usadas para obter informações sobre o público e o mercado.
+
+Esses instrumentos ajudam a transformar as perguntas da pesquisa em dados reais, que podem ser analisados. Com isso, é possível entender melhor o comportamento dos consumidores, suas opiniões, hábitos de compra e expectativas.
+
+
+
+ Tipos de Questionários
+
+Os questionários podem ser classificados de acordo com o tipo de pergunta utilizada. Essa escolha é importante, pois influencia diretamente a forma como os dados serão coletados e analisados.
+
+ 
+
+✔ Perguntas fechadas
+Apresentam alternativas de resposta já definidas (como “sim”, “não” ou múltipla escolha). Esse tipo facilita a organização das respostas e permite uma análise mais rápida e quantitativa dos dados.
+
+ 
+
+✔ Perguntas abertas
+Permitem que o entrevistado responda com suas próprias palavras, sem opções pré-definidas. São úteis para obter opiniões, sugestões e percepções mais detalhadas, contribuindo para uma análise mais aprofundada.
+
+ 
+
+
+✔ Questionários mistos
+Combinam perguntas abertas e fechadas no mesmo instrumento. Dessa forma, possibilitam a coleta de dados quantitativos (números) e qualitativos (opiniões), oferecendo uma visão mais completa da pesquisa.
+
+
+
+ Tipos de Dados na Pesquisa de Mercado
+
+ 
+
+
+✔ Dados quantitativos
+São informações expressas em números, que podem ser medidas, comparadas e analisadas por meio de cálculos e estatísticas.
+Esses dados ajudam a identificar padrões e tendências de forma objetiva.
+Exemplos: na lanchonete, Vinícius pode analisar o número de clientes atendidos por dia, a quantidade de vendas de cada produto ou a porcentagem de clientes que preferem determinado lanche.
+
+ 
+
+✔ Dados qualitativos
+São informações descritivas, relacionadas às opiniões, percepções e comportamentos dos consumidores.
+Esse tipo de dado permite entender melhor o porquê das escolhas dos clientes.
+Exemplos: na lanchonete, Vinícius pode coletar opiniões sobre o atendimento, sugestões de novos produtos ou a percepção dos clientes sobre o ambiente e a qualidade dos lanches.
+
+
+
+
+
+Dados Primários e Dados Secundários
+
+Na pesquisa de mercado, as informações também podem ser classificadas de acordo com a sua origem, ou seja, de onde esses dados foram obtidos.
+
+ 
+
+✔ Dados primários
+São aqueles coletados diretamente pelo pesquisador, com o objetivo de responder a uma necessidade específica da pesquisa. Esse tipo de dado é obtido por meio de instrumentos como questionários, entrevistas e observação.
+
+ 
+
+✔ Dados secundários
+São informações que já foram coletadas anteriormente por outras pessoas ou instituições. Esses dados podem ser encontrados em relatórios de mercado, pesquisas acadêmicas, sites especializados, órgãos governamentais e documentos institucionais.
+
+
+
+Análise e Interpretação das Informações
+
+Após a coleta de dados, inicia-se uma das etapas mais importantes da pesquisa de mercado: a análise e interpretação das informações.
+
+Nessa fase, os dados coletados são organizados em tabelas, gráficos ou relatórios, facilitando a visualização e o entendimento dos resultados. Esse processo permite identificar padrões, tendências e possíveis problemas no mercado.
+
+A análise pode ocorrer de duas formas complementares:
+
+✔️ Análise quantitativa: foca nos dados numéricos, como quantidades, porcentagens e frequências.
+
+✔️  Análise qualitativa: busca compreender opiniões, percepções e comportamentos dos consumidores.
+
+
+
+ Matriz BCG
+
+A Matriz BCG (Boston Consulting Group) é uma ferramenta de análise estratégica utilizada para avaliar o desempenho de produtos ou serviços dentro de uma empresa.
+
+ 
+
+Ela se baseia em dois fatores principais:
+
+
+✔ Participação no mercado (quanto o produto vende em relação aos concorrentes)
+
+✔ Taxa de crescimento do mercado (se o mercado está crescendo, estável ou em queda)
+
+ 
+
+A partir dessa análise, os produtos são classificados em quatro categorias:
+
+ 
+
+✔ Produtos Estrela
+Possuem alta participação em mercados em crescimento. São produtos com grande potencial, mas que geralmente exigem investimentos para manter sua posição competitiva.
+
+ 
+
+✔ Vacas Leiteiras
+Apresentam alta participação em mercados estáveis. São produtos consolidados, que geram receitas constantes para a empresa.
+
+ 
+
+✔ Pontos de Interrogação
+Possuem baixa participação em mercados em crescimento. Exigem análise, pois podem se tornar produtos de sucesso ou não justificar novos investimentos.
+
+ 
+
+✔ Abacaxis (ou Produtos Cão)
+
+Apresentam baixa participação em mercados com baixo crescimento. Normalmente geram pouco retorno e podem ser substituídos ou retirados do mercado.

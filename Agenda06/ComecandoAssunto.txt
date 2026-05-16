@@ -1,0 +1,108 @@
+Planejamento Tático
+
+O planejamento tático, como estudamos na Agenda 04, é o elo de ligação entre o planejamento estratégico e o operacional. Ele tem como objetivo traduzir as estratégias da empresa em planos e ações para cada setor ou departamento, orientando como as metas serão alcançadas.
+
+ 
+
+O planejamento tático é composto principalmente pela elaboração de planos, políticas e regulamentos, que organizam as atividades dos diferentes setores da organização.
+
+
+
+PLANOS
+
+Os planos são documentos que definem o que será feito, quais metas devem ser alcançadas, quais ações serão realizadas e quais recursos serão utilizados para atingir determinados objetivos. Eles servem como um guia para orientar as atividades de um setor ou de um projeto dentro da organização.
+
+ 
+
+Os planos geralmente incluem:
+
+Definição de objetivos e metas.
+Ações necessárias para alcançar os resultados.
+Prazos para execução das atividades.
+Responsáveis pelas tarefas.
+Recursos necessários.
+
+ o plano de controle de estoques, utilizado para organizar a entrada, armazenamento e saída de produtos, esse tipo de plano pode definir níveis mínimos de estoque, frequência de reposição de mercadorias, formas de registro das movimentações e responsáveis pelo controle dos materiais.
+
+POLÍTICAS
+As políticas organizacionais são diretrizes ou orientações que ajudam a padronizar decisões e comportamentos dentro da empresa. Elas indicam como determinadas situações devem ser conduzidas, garantindo que as ações estejam alinhadas com os valores e objetivos da organização.
+
+As políticas ajudam a evitar decisões improvisadas e garantem que todos os colaboradores sigam critérios semelhantes em situações do dia a dia.
+
+Um exemplo são as políticas de Recursos Humanos, que podem estabelecer orientações sobre:
+
+Recrutamento e seleção de novos colaboradores.
+Normas de comportamento e ética profissional.
+Programas de treinamento e desenvolvimento.
+Regras para avaliação de desempenho.
+
+Essas diretrizes ajudam a manter um ambiente de trabalho organizado, transparente e alinhado com os objetivos da empresa.
+
+ 
+REGULAMENTOS
+ 
+ Os regulamentos são conjuntos de regras formais que definem como determinadas atividades devem ser realizadas dentro da organização. Diferentemente das políticas, que orientam decisões, os regulamentos estabelecem normas mais específicas que devem ser cumpridas pelos colaboradores.
+Essas regras ajudam a manter a disciplina, a segurança e a organização das atividades.
+
+Um exemplo importante são os regulamentos de saúde e segurança do trabalho, que definem práticas para proteger os trabalhadores e evitar acidentes.
+
+Esses regulamentos podem incluir: 
+
+Uso obrigatório de equipamentos de proteção individual (EPIs).
+Procedimentos seguros para movimentação de cargas.
+Organização e limpeza dos ambientes de trabalho.
+Orientações para prevenção de acidentes.
+
+
+Essas normas contribuem para um ambiente de trabalho mais seguro e para o cumprimento das exigências legais.
+
+
+
+
+
+
+
+
+
+
+Planejamento Operacional
+
+Já o planejamento operacional está relacionado à execução das atividades do dia a dia. Ele define o que será feito, por quem, quando e como, por meio de procedimentos, rotinas, cronogramas e acompanhamento das tarefas.
+
+Este planejamento está relacionado à execução das atividades diárias da organização. Ele detalha como as tarefas serão realizadas, quem será responsável, quais recursos serão utilizados e em que prazo as atividades devem ser concluídas. 
+
+PROCEDIMENTOS E ROTINAS
+ 
+Os procedimentos são descrições organizadas que explicam como uma atividade deve ser realizada, indicando as etapas, os responsáveis e os recursos necessários. Eles ajudam a padronizar as tarefas, garantindo que o trabalho seja executado sempre da mesma forma e com qualidade.
+
+Já as rotinas são as atividades que se repetem regularmente dentro da organização, fazendo parte do funcionamento diário da empresa. Essas tarefas seguem procedimentos definidos para que sejam realizadas de forma eficiente.
+
+FLUXOGRAMAS 
+
+Os fluxogramas são representações gráficas que mostram o passo a passo de um processo ou atividade, utilizando símbolos e setas para indicar a sequência das etapas.
+
+Eles ajudam a visualizar melhor como as tarefas são realizadas dentro da empresa, facilitando a compreensão dos processos, a identificação de possíveis falhas e a melhoria das atividades.
+
+
+Por exemplo, um fluxograma pode representar o processo de registro de pedidos de clientes, mostrando as etapas desde o recebimento da solicitação do cliente até a entrega do produto.
+
+PROGRAMAS: CALENDÁRIOS E CRONOGRAMAS
+ 
+Os programas são instrumentos que organizam quando as atividades devem ser realizadas. Eles ajudam a planejar o tempo e garantir que as tarefas ocorram dentro dos prazos estabelecidos.
+
+Entre os programas mais utilizados nas organizações estão os calendários e os cronogramas.
+
+Os calendários organizam as atividades ao longo de um período, como semanas ou meses, permitindo visualizar datas importantes, reuniões, prazos de entrega ou eventos da empresa.
+
+Já os cronogramas detalham a sequência das tarefas de um projeto ou atividade, indicando quando cada etapa deve começar e terminar. Essas ferramentas ajudam a controlar prazos e acompanhar o andamento das atividades.
+
+
+ORÇAMENTOS
+ 
+
+Os orçamentos são instrumentos utilizados para planejar e controlar os recursos financeiros necessários para realizar determinadas atividades ou projetos.
+
+Eles permitem estimar receitas e despesas, definir limites de gastos e acompanhar se os recursos estão sendo utilizados de forma adequada.
+
+Um exemplo é o orçamento para transporte e logística, que pode incluir custos com combustível, manutenção de veículos, contratação de serviços e outras despesas relacionadas às operações da empresa.
+image.png
