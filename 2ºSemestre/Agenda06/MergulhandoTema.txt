@@ -1,0 +1,77 @@
+MERGULHANDO NO TEMA
+Em resumo:
+
+👉 Origem dos recursos: indica de onde vêm os recursos utilizados pela empresa.
+
+👉 Aplicação dos recursos: indica onde os recursos são utilizados.
+
+
+
+Compreender essa relação ajuda a acompanhar como os recursos circulam dentro da empresa e quais efeitos suas operações podem produzir no patrimônio.
+
+1. Atos administrativos
+
+Os atos administrativos são decisões ou ações relacionadas à administração da empresa que, naquele momento, não provocam alteração no patrimônio.
+
+2. Fatos administrativos
+
+Os fatos administrativos são acontecimentos relacionados às atividades da empresa que provocam alterações em seu patrimônio e, por isso, precisam ser identificados e registrados.
+
+image.pngimage.png
+Assim, podemos resumir:
+
+👉 Ato administrativo: decisão ou ação da administração que não provoca, naquele momento, alteração no patrimônio.
+
+
+👉 Fato administrativo: acontecimento que provoca alteração no patrimônio e precisa ser identificado e registrado.
+
+Documentos contábeis
+
+Os documentos utilizados nas operações da empresa fornecem informações importantes para sua identificação, conferência e registro. Entre eles, podemos encontrar notas fiscais, recibos, duplicatas, contratos e documentos bancários.
+
+Por isso, é importante que sejam corretamente identificados, organizados e preservados.
+
+Os documentos também podem ser utilizados por diferentes setores. Uma nota fiscal de compra, por exemplo, pode ser importante para Compras, Financeiro, Estoque e Contabilidade, de acordo com a necessidade de cada área.
+
+
+Escrituração contábil: transformando operações em informações
+
+Agora que já sabemos como uma operação pode acontecer e quais documentos ajudam a comprová-la, precisamos entender como essas informações são registradas.
+A escrituração contábil é o registro organizado das operações que provocam alterações no patrimônio da empresa, realizado com base nos documentos que comprovam essas operações e de acordo com as normas contábeis.Dessa forma, a escrituração transforma as operações realizadas no dia a dia em informações organizadas, que podem ser consultadas e analisadas.
+
+ 
+
+
+Por que a escrituração é importante?
+
+Imagine uma empresa que realiza centenas de operações durante o mês e apenas guarda suas notas fiscais, recibos e comprovantes. Como responder rapidamente a perguntas como:
+
+Quanto gastamos? Quanto recebemos? Quais equipamentos adquirimos? Quanto devemos aos fornecedores?
+
+Somente guardar os documentos não seria suficiente. É preciso organizar e registrar as informações para que elas possam ser consultadas e utilizadas.
+
+A escrituração contribui para:
+
+controle do patrimônio;
+organização das informações;
+acompanhamento das operações;
+ elaboração de demonstrações contábeis;
+análise da situação da empresa;
+tomada de decisões;
+cumprimento de obrigações legais.
+
+
+Recursos → Operação → Documento → Registro → Informação → Controle
+
+Escrituração na era digital
+
+No Brasil, a Escrituração Contábil Digital (ECD) integra o Sistema Público de Escrituração Digital (SPED). A ECD permite que determinados livros e registros contábeis sejam transmitidos digitalmente ao poder público, conforme as regras aplicáveis.
+
+A tecnologia trouxe mais rapidez e integração aos processos, mas não eliminou a necessidade de atenção. Um documento ou lançamento incorreto pode gerar informações erradas e comprometer análises e decisões posteriores.
+
+Por isso, a tecnologia deve estar acompanhada de conhecimento e conferência das informações.
+
+
+
+
+image.png
