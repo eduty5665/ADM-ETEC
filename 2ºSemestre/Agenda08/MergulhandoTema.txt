@@ -1,0 +1,209 @@
+MERGULHANDO NO TEMA
+
+O preço deﬁnido para cada produto e serviço da organização deve garantir um bom resultado ﬁnanceiro, ou seja, os preços devem cobrir todos os custos da organização e ainda garantir um resultado positivo, o lucro. Porém, esse lucro não deverá ser abusivo, e o consumidor não deve se sentir explorado.
+
+Tudo isso mostra que formar o preço correto é fundamental, tanto do ponto de vista econômico quanto ético.
+
+A seguir, você aprenderá quais são os custos que entram na formação de um preço, e como deve classiﬁcá-los.
+
+CUSTO OU DESPESA?
+
+Como diferenciar? Você precisa saber disso!
+
+
+
+
+CUSTOS FIXOS E VARIÁVEIS
+
+
+Imagine uma empresa que produz e vende bolos. Cada bolo de chocolate produzido, por exemplo, implica alguns custos de produção. Veja no gráﬁco a seguir:
+
+ 
+
+
+ 
+
+Produzir um bolo custa R$ 6,00. Quanto custará produzir:
+
+Dois bolos?
+Dez bolos?
+100 bolos?
+Essa é mesmo fácil! Você acertou se multiplicou os números por 6 (ou seja, pelo custo de um bolo):
+
+Produzir dois bolos custará 2 x R$ 6,00 = R$ 12,00.
+Produzir dez bolos custará 10 x R$ 6,00 = R$ 60,00.
+Produzir 100 bolos custará 100 x R$ 6,00 = R$ 600,00.
+É só multiplicar o número de bolos pelo valor do custo de produção de cada bolo.
+
+Essa é a característica dos custos variáveis: eles acontecem sempre que uma unidade vai ser produzida.
+
+Os custos variáveis são aqueles que aumentam ou diminuem proporcionalmente à quantidade produzida ou vendida.
+
+Como você vê no gráﬁco, os custos variáveis totais aumentam à medida que aumenta a quantidade produzida.
+
+
+
+
+Por outro lado, para produzir os bolos de chocolate, também há custos que não estão vinculados diretamente à produção de um bolo:
+
+Aluguel da cozinha.
+Energi elétrica para iluminação da empresa.
+Manutenção dos utensílios de cozinha.
+Salário da cozinheira auxiliar.
+Esses custos acontecerão independentemente da quantidade de bolos produzidos. Mesmo que em um mês a empresa não produza (ou não venda) nenhum bolo, terá que pagar o aluguel do estabelecimento. Da mesma forma,  será obrigada a pagar o salário mensal e os encargos trabalhistas da funcionária. Os custos ﬁxos acontecem de maneira totalmente independente da quantidade produzida.
+
+
+
+
+Os custos fixos se mantêm constantes independentemente da quantidade produzida ou vendida.
+
+É claro que isso tem um limite! Imagine uma fábrica que produz maçanetas para portas, que tenha capacidade para produzir 10 mil maçanetas por mês. Talvez a empresa conseguisse produzir até 20 mil maçanetas, se, por exemplo, trabalhasse em turnos dobrados (dia e noite). Porém, em determinado momento, a sua estrutura ﬁxa não conseguiria mais absorver a produção. Então, seria necessário expandir a capacidade de produção: aumentar a área alugada da planta, comprar mais máquinas, aumentar o número de operários. Assim, é possível dizer que os custos ﬁxos se mantêm constantes até o limite de produção possível.
+
+Conﬁra na tabela a seguir alguns exemplos de custos ﬁxos e variáveis:
+
+
+ 
+
+A conta da água varia todo o mês no seu escritório! Isso quer dizer que o custo da água é variável?
+
+É claro que não! Custo variável é um termo utilizado em finanças para designar os custos que aumentam proporcionalmente em relação à quantidade produzida. O fato de um custo ter um valor ﬂutuante não o classiﬁca como variável. Na verdade, a conta de água de um escritório pode ser considerada ﬁxa, pois ela não vai aumentar a cada novo cliente, nem vai diminuir caso a empresa venda menos naquele mês.
+
+O QUE É A MARGEM DE CONTRIBUIÇÃO?
+
+Imagine que a empresa de bolos venda cada bolo de chocolate a R$ 20,00. Não seria correto dizer que, a cada bolo vendido, a empresa lucrará R$ 20,00. Isso porque, como produzir um bolo custa R$ 6,00, na verdade, a cada bolo vendido entram para a empresa R$ 14,00. Isso quer dizer que cada bolo contribui com R$ 14,00 para o resultado desse produto.
+
+Agora considere que a empresa pense na possibilidade de vender um novo tipo de bolo, diferente dos atualmente produzidos – como, por exemplo, de morango com doce de leite, geléia e creme de chantilly –, e que ela saiba que o mercado não aceitará pagar mais caro por isso. Ou seja, o bolo de morango com doce de leite terá que ser vendido também a R$ 20,00.
+
+No entanto, este bolo custa R$ 12,00 para ser produzido, por ter mais ingredientes: o doce de leite, a geléia da cobertura, o creme de chantilly e os morangos frescos.
+
+Com quanto esse novo bolo vai contribuir para o resultado da empresa? Veja a equação:
+
+
+
+
+Como você vê, ele contribuirá menos do que o bolo de chocolate para o resultado, pois custa mais caro produzi-lo, e ele deve ser vendido pelo mesmo preço. A margem com que um produto contribui para o lucro da organização é chamada de margem de contribuição.
+
+A margem de contribuição indica o quanto cada produto contribui para o lucro da organização.
+
+Margem de contribuição = preço – custo variável
+
+O cálculo da margem de contribuição nos exemplos anteriores, usando o cálculo que você acabou de aprender, é assim:
+
+
+
+
+A margem de contribuição também pode ser calculada na forma percentual. Veja a fórmula:
+
+
+
+
+Nos exemplos anteriores, seria assim:
+
+
+
+
+O QUE É PONTO DE EQUILÍBRIO OPERACIONAL?
+
+Quantos bolos a empresa precisa vender para, pelo menos, pagar todos os seus custos ﬁxos e variáveis?
+
+Essa informação é muito importante, pois, se a organização consegue pagar todos os seus custos, signiﬁca que não terá prejuízos. Esse é o ponto conhecido como ponto de equilíbrio operacional.
+
+Nesse ponto, a receita será igual aos custos totais (fixos mais variáveis). A partir desse ponto, a organização começa a ter lucro.
+
+
+O ponto de equilíbrio operacional é o número de produtos ou serviços que uma empresa precisa produzir e vender para pagar todos os seus custos fixos e variáveis.
+
+ 
+
+Veja agora como se faz para chegar ao ponto de equilíbrio:
+
+Pense novamente na empresa que produz e vende bolos e considere que cada bolo é vendido ao preço de R$ 20,00. Suponha que a média de custos variáveis para produzir um bolo totalize R$ 6,00. Imagine que os custos fixos sejam de R$ 1.000,00 por mês.
+
+Você pode calcular quantos bolos a organização precisará vender para igualar seus custos com as receitas? Faça o cálculo e registre. Atenção para esta dica: calcule primeiro a margem de contribuição. Depois de responder, continue a leitura.
+
+Você acertou se seguiu um raciocínio semelhante a este:
+
+Cálculo da margem de contribuição:                                                                                                                    Margem de contribuição = preço − custos variáveis                Margem de contribuição = R$ 20,00 − R$ 6,00 = R$ 14,00
+ 
+
+2. Cálculo do ponto de equilíbrio:
+
+Como você viu, os custos ﬁxos totalizam R$ 1.000,00. A organização ganha R$ 14,00 por bolo e precisará vender bolos suﬁcientes para cobrir todos os custos ﬁxos. Para achar o número de bolos necessários para pagar R$ 1.000,00 de custos, basta dividir R$ 1.000,00 por R$ 14,00:
+
+
+
+
+Portanto, a organização precisará vender 72 bolos para pagar todos os seus custos. Que tal colocar tudo numa única fórmula?
+
+Fórmula do ponto de equilíbrio operacional
+
+
+Repare que o denominador da fração é igual ao preço de venda de um único produto (bolo), menos o custo variável para produzir uma unidade. 
+
+
+
+
+O gráﬁco mostra a importância do ponto de equilíbrio. Veriﬁque que  a receita vai aumentando, assim como a linha de custos totais, à medida que aumenta a quantidade produzida ou vendida.
+
+Existe uma quantidade de produtos produzida ou vendida que faz com que as linhas da receita e dos custos se encontrem e se cruzem. Esse é o ponto de equilíbrio operacional. Repare que a partir do ponto de equilíbrio a empresa começa a ter lucro, e antes desse ponto a empresa tem prejuízo.
+
+Outro ponto importante: o gráﬁco representa a receita unitária (RU), que nada mais é do que a receita obtida com a venda de uma única unidade de produto ou serviço. A mesma deﬁnição vale para custo variável unitário.
+
+A linha dos custos totais tem origem no ponto dos custos ﬁxos, uma vez que, mesmo produzindo ou vendendo zero unidade, a organização terá que arcar com os custos ﬁxos.
+
+O QUE COMPÕE O PREÇO DE VENDA?
+
+No cálculo do preço de venda devem ser incluídos, por exemplo:
+
+Tributos
+Materiais
+Custos das mercadorias compradas
+Comissões de vendas
+A receita de vendas, deduzida dos tributos e dos custos variáveis, será igual à margem de contribuição.
+
+Uma vez calculada a margem de contribuição, a empresa deverá veriﬁcar se o total da margem de contribuição gerada pelos produtos ou serviços é suﬁciente para cobrir os custos ﬁxos e gerar lucros.
+
+Veja a seguir tabelas de preciﬁcação para um comércio, uma empresa industrial e uma prestadora de serviços.
+
+Cálculo do preço para uma empresa comercial
+Considere que a empresa compra as mercadorias no mesmo estado, pagando ICMS de 18%, tanto na compra das mercadorias como na venda final. Além disso, estão incluídos os impostos incidentes sobre a receita. Verifique que não estão incluídos o Imposto de Renda Pessoa Jurídica (IRPJ) ou a Contribuição Social sobre o Lucro Líquido (CSLL), porque neste exemplo a empresa em questão optou pela tributação pelo regime do lucro real. Além do custo das mercadorias vendidas, a empresa também tem o custo da comissão dos vendedores.
+
+
+
+
+As empresas que fizerem a opção de tributação do IRPJ e CSLL pelo Lucro Real deverão, obrigatoriamente, computar o PIS e o COFINS com incidência não cumulativa*, com percentuais de 1,65% (para o PIS) e 7,6% (para o COFINS).
+
+Caso a opção de tributação do IRPJ e CSLL seja pelo lucro presumido, a empresa poderá (se quiser) computar o PIS e o COFINS de forma cumulativa* nas alíquotas de 0,65% e 3%, respectivamente, sobre o seu faturamento.
+
+*A cumulatividade consiste no fato de um imposto reincidir sobre a mesma base de cálculo.
+
+Fonte: https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/legislacao/legislacao-por-assunto/Contribuicao-para-o-PIS-Pasep-e-Cofins
+
+Exemplo de cumulatividade:
+
+Empresa A vende um produto para a empresa B por R$10,00. Desses R$10,00 3% é COFINS, portanto a empresa A deverá recolher R$0,30 desse imposto para o Estado.
+
+A empresa B, por sua vez, revende esse mesmo produto por R$20,00 e terá de recolher, aos cofres do Estado, 3% de COFINS sobre esse valor, ou seja, R$0,60.
+
+Exemplo de não cumulatividade:
+
+Uma empresa comercial compra um produto por R$10,00.
+
+Destes R$10,00 pagos, 7,6% (R$0,76) é referente ao COFINS. Imagine que ela venda essa mercadoria por R$30,00. Desse valor de venda, 7,6% (R$2,28) é referente ao COFINS que ela está recebendo do seu cliente.
+
+Para saber quanto ela deverá recolher de COFINS para o Estado, ela deverá fazer o seguinte cálculo:
+
+R$2,28 de COFINS sobre a venda menos R$0,76 de COFINS sobre a compra (já pagos ao seu fornecedor), ou seja, R$2,28 – R$0,76 = R$1,52. Esse é o valor que ela deverá recolher de COFINS no regime de não cumulatividade.
+
+Cálculo do preço de venda para uma empresa industrial
+Veriﬁque no quadro que o IPI é calculado por fora, ou seja: primeiro é calculado o valor ﬁnal do produto e depois é acrescido o IPI. As matérias-primas também são custos variáveis, e a empresa pode deixar de pagar o IPI embutido nas matérias-primas (ela tem esse crédito, como você viu ao estudar esse ponto no módulo básico, agenda 14). Neste exemplo, considere que a empresa optou pela tributação de IRPJ e CSLL pelo lucro presumido, por isso eles incidem sobre a receita de vendas e podem ser considerados custos variáveis.
+
+
+
+
+ 
+
+Cálculo do preço de venda para uma empresa de serviços
+Nesse caso, considere também que a empresa optou pela tributação de IRPJ e CSLL pelo lucro presumido. No caso dos serviços, um custo variável signiﬁcativo é sempre a mão-de-obra do prestador de serviço.
+
+

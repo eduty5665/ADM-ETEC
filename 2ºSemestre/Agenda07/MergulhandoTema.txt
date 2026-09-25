@@ -1,0 +1,146 @@
+MERGULHANDO NO TEMA
+
+
+Diariamente, as empresas realizam diversas operações, como compras, vendas, pagamentos, recebimentos e investimentos. Cada operação pode provocar mudanças no patrimônio ou nos resultados da organização e, por isso, precisa ser registrada corretamente.
+
+Esses registros permitem acompanhar informações como: bens, direitos, obrigações, receitas, despesas e resultados.
+
+image.png
+Por isso, a Contabilidade não se resume a registrar números. Quando os registros são organizados e analisados, eles se transformam em informações úteis para o planejamento, o controle e a tomada de decisões.
+
+O dinheiro pode ter vindo de vendas, recebimentos de clientes, empréstimos ou outras operações, e cada uma produz efeitos diferentes. Da mesma forma, ter dinheiro disponível não significa, necessariamente, que a empresa esteja em uma boa situação. Ela pode possuir contas e dívidas a pagar. Por isso, é necessário analisar o conjunto das informações.
+
+As informações contábeis também precisam ser corretas, atualizadas, confiáveis e relevantes, além de serem tratadas com responsabilidade e confidencialidade.
+
+Débito e Crédito
+
+
+1º PASSO: ENTENDER AS CONTAS
+
+Antes de aprender onde registrar um débito ou crédito, precisamos conhecer as contas contábeis.
+
+Uma conta é utilizada para registrar e acompanhar determinado elemento ou movimentação da empresa. Por exemplo:
+
+Conta Caixa: registra o dinheiro disponível em espécie;
+Conta Banco: registra os valores mantidos em contas bancárias;
+Conta Estoques: registra as mercadorias que a empresa possui;
+Conta Clientes: registra valores que a empresa tem a receber;
+Conta Fornecedores: registra valores que a empresa deve a fornecedores;
+Conta Receitas: registra os valores gerados pelas atividades da empresa;
+Conta Despesas: registra gastos necessários para o funcionamento da organização.
+
+image.png
+
+
+image.png
+
+
+3º PASSO: COLOCAR A REGRA EM PRÁTICA
+
+Exemplo 1 – Compra de um computador à vista
+
+A Conecta Lar comprou um computador por R$ 4.000,00, pagando à vista.
+
+O que aconteceu?
+
+A empresa recebeu um computador e realizou um pagamento.
+
+Quais contas foram afetadas?
+
+Equipamentos: aumentou → Ativo → Débito
+Caixa/Banco: diminuiu → Ativo → Crédito
+Lançamento:
+
+Débito – Equipamentos: R$ 4.000,00
+
+Crédito – Caixa/Banco: R$ 4.000,00
+
+Perceba: débito não significa dinheiro saindo. Nesse caso, o dinheiro saiu, mas o débito foi registrado em Equipamentos porque essa conta do Ativo aumentou.
+
+ 
+
+Exemplo 2 – Compra de mercadorias a prazo
+
+A empresa comprou R$ 7.000,00 em mercadorias a prazo.
+
+A empresa recebeu as mercadorias, mas ainda não pagou.
+
+Estoques: aumentou → Ativo → Débito
+Fornecedores: aumentou → Passivo → Crédito
+Lançamento:
+
+Débito – Estoques: R$ 7.000,00
+
+Crédito – Fornecedores: R$ 7.000,00
+
+Observe que não houve entrada ou saída de dinheiro, mas houve débito e crédito.
+
+ 
+
+Exemplo 3 – Recebimento de cliente
+
+Imagine que um cliente pague uma dívida de R$ 3.000,00 com a empresa.
+
+Banco/Caixa: aumentou → Ativo → Débito
+Clientes: diminuiu → Ativo → Crédito
+Lançamento:
+
+Débito – Banco/Caixa: R$ 3.000,00
+
+Crédito – Clientes: R$ 3.000,00
+
+Aqui percebemos novamente que crédito não significa simplesmente dinheiro entrando. O dinheiro entrou no Caixa ou Banco, mas a conta Clientes foi creditada porque o valor a receber diminuiu.
+
+
+
+image.png
+
+
+Partidas dobradas e razonetes: qual é a relação?
+
+
+O método das partidas dobradas apresenta a lógica do registro: uma operação provoca efeitos nas contas envolvidas e o total dos débitos deve ser igual ao total dos créditos.
+
+ 
+
+O razonete é uma ferramenta que permite visualizar e organizar esses registros em cada conta, facilitando o acompanhamento de suas movimentações e de seu saldo.
+
+
+
+
+Do Razonete ao Balancete de Verificação
+
+
+
+Para entender o caminho que seguimos foi:
+
+Operações → Lançamentos → Razonetes → Saldos das contas → Balancete de Verificação
+
+ 
+
+O Balancete reúne os saldos das contas e permite conferir se o total dos débitos é igual ao total dos créditos.
+
+
+
+Do Balancete aos Relatórios Contábeis
+
+Depois da conferência dos saldos, as informações podem ser utilizadas em outros relatórios contábeis, como a DRE – Demonstração do Resultado do Exercício e o BP – Balanço Patrimonial.
+
+ 
+
+ 
+
+Importante!
+
+Os conceitos, as características e a estrutura da DRE e do Balanço Patrimonial já foram apresentados e estudados na Agenda 11 do Módulo I.
+
+Sempre que necessário, retorne àquela agenda para relembrar os principais conceitos e compreender melhor esses dois importantes relatórios contábeis.
+
+Nesta agenda, nosso objetivo é diferente: vamos perceber como os valores registrados nas operações e reunidos no Balancete de Verificação podem ser utilizados nos relatórios.
+
+Antes de continuar, é importante observar que os valores apresentados a seguir correspondem somente às operações realizadas e apresentadas nesta agenda. Trata-se de uma situação simplificada, criada para facilitar a compreensão da sequência:
+
+Operações → Lançamentos → Razonetes → Balancete → DRE e BP
+
+Na prática, uma empresa realiza muitas outras operações durante um período contábil. Por isso, seus relatórios normalmente apresentam muito mais contas, valores e informações.
+
