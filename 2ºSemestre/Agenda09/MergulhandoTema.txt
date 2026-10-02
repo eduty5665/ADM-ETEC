@@ -1,0 +1,151 @@
+MERGULHANDO NO TEMA
+
+O modo de produzir é fundamental numa organização. Uma administração eficiente da produção e das operações aumenta a sua lucratividade e o seu crescimento.
+
+Por isso, a administração da produção e das operações é muito importante para que a organização se mantenha competitiva num mercado global, em constantes mudanças.
+
+Administração da Produção e Operações é o nome que se dá à administração do sistema de produção de uma organização, que transforma diversos insumos – como materiais, máquinas, instalações, tecnologia, recursos ﬁnanceiros etc. – em produtos e serviços.
+
+
+
+Um pouco de historia
+
+O que se conhece hoje como indústria começou a se desenvolver a partir da Revolução Industrial. Tendo a Inglaterra como pioneira na segunda metade do século XVIII (1760), a Revolução Industrial se expandiu aos poucos para a Europa Ocidental e para outras regiões da Europa. A partir da segunda metade do século XIX (1850), o processo de industrialização atingiu escala mundial. Este processo envolveu dois elementos fundamentais:
+
+A substituição da força humana pela força mecanizada: o motor a vapor, inventado por James Watt em 1768, e outras máquinas (como o tear mecânico) deram um grande impulso ao surgimento das primeiras fábricas.
+A divisão do trabalho: a produção dentro das fábricas foi dividida em tarefas menores, e os operários passaram a especializar-se em determinadas tarefas.
+
+image.png
+
+A ADMINISTRAÇÃO CIENTÍFICA
+
+As modiﬁcações no sistema de produção, na Revolução Industrial, foram os embriões de uma segunda grande revolução na área da Administração: o desenvolvimento da Administração Cientíﬁca, no ﬁm do século XIX.
+
+Você já pensou se, nos dias de hoje, numa fábrica (por exemplo, na montagem de automóveis), cada operário tivesse sua forma de trabalhar, inclusive usando suas próprias ferramentas?
+
+Se, além disso, não houvesse tempo demarcado ou método predeterminado para executar cada atividade e cada operário trabalhasse no próprio ritmo?
+
+ 
+
+Até o século XIX, a produção industrial era assim, apresentava carcterísticas do trabalho artesanal. Não havia um método de produção definido: cada trabalhador realizava sua atividade da forma que entendia ser a correta e cada peça produzida podia variar. Variavam também o tempo de produção e o custo de cada item desenvolvido.
+
+A seguir, você verá as principais modiﬁcações introduzidas pela Administração Cientíﬁca.
+
+Taylor: o pai da Administração Cientíﬁca
+
+Frederick Winston Taylor (1856-1915) é considerado o pai da Administração Cientíﬁca, especialmente no que diz respeito à organização da produção. Dedicou seus estudos e pesquisas à modernização e à sistematização dos processos de trabalho na indústria. Seu livro mais conhecido, “Princípios de Administração Cientíﬁca”, é leitura importante para os estudantes de Administração.
+
+
+image.png
+O QUE MUDOU COM TAYLOR
+
+
+CRÍTICAS AO MODELO DE TAYLOR
+
+
+No filme “Tempos modernos”, Chaplin faz uma crítica irônica ao processo de trabalho taylorista, que equipara os homens a máquinas.
+
+ 
+
+ 
+
+“Não sois máquina, homens é que sois.” (Charles Chaplin)
+
+O modelo de produção estabelecido por Taylor apresenta algumas  limitações, como por exemplo:
+
+Equipara os homens a máquinas, reduzindo as possibilidades de criatividade ou inovação.
+Retira sentido do trabalho, limitando as atividades diárias a tarefas simples e extremamente repetitivas,desvinculadas do resultado ﬁnal.
+Desumaniza os processos de trabalho, minimizando a possibilidade de motivação e realização do trabalhador com o que se faz.
+Um exemplo dessa alienação: na linha de produção, um operário tem a única função de colocar uma determinada peça em um brinquedo (como por exemplo, as rodas de um carrinho). Ele faz somente isso, o dia inteiro, e não reconhece o valor do seu trabalho no resultado ﬁnal desse produto.
+
+
+
+
+
+Henry Ford e o modelo T
+
+Henry Ford (1863-1947) também é um dos precursores da Administração Científica. Tendo começado sua carreira como mecânico, foi o fundador da montadora de automóveis Ford, empresa americana que dirigiu e transformou numa grande marco da Administração.
+
+Seu sonho de realizar produção em série tornou-se realidade com o Ford Modelo T, lançado em 1908 por 850 dólares, instalando uma nova era de produção no mundo. O pioneirismo na produção em massa, fez o Modelo T representar mais da metade da frota mundial de carros em 1920. Sua produção foi encerrada em 1927, somando 15.007.003 de unidades vendidas em seus 19 anos de produção.
+
+No início do século XX, o grande desaﬁo das empresas era produzir em quantidade suﬁciente e com um preço acessível, para que um maior número de pessoas pudesse consumir produtos, e não apenas os muito ricos. Ford revolucionou o mercado, fazendo um automóvel suﬁcientemente barato para ser comprado também pela classe média. Dessa forma, aumentou bastante o número de pessoas que poderiam consumir esse produto, ampliando ainda mais os lucros de sua indústria.
+
+O QUE MUDOU COM FORD
+
+Ford aplicou os princípios de Taylor e popularizou o que se conhece hoje como produção em massa.
+
+
+
+“Você pode escolher a cor do seu Ford T, desde que seja preta.” Essa frase célebre de Ford expressa bem a forma de trabalhar de sua montadora na época: uma linha de montagem móvel que produzia uma grande quantidade de automóveis iguais, a baixo custo. O produto era padronizado: o mesmo material, operários fazendo uma única tarefa repetitiva o dia todo, usando as mesmas peças, os mesmos processos e com o menor custo possível. Resultado: milhares de carros iguais, produzidos com eﬁciência, rapidez e baixo custo.
+
+
+QUAIS ERAM OS PRINCÍPIOS DO SISTEMA DE PRODUÇÃO DE FORD?
+
+1. Princípio da intensiﬁcação:
+
+O objetivo é a redução do tempo de produção e da chegada da mercadoria pronta ao mercado consumidor. O uso da linha de montagem móvel foi uma das principais inovações do Fordismo. A ideia era dividir o processo de fabricação em etapas menores e distribuir as tarefas para os trabalhadores especializados em cada uma delas, que ficavam posicionados ao longo da linha de produção. Através deste método de produção, foi possível aumentar a velocidade de produção e redução dos custos.
+
+Diminuir o tempo de produção de cada unidade com a aplicação imediata de equipamentos e matéria-prima e a rápida colocação do produto no mercado.
+
+2. Princípio da economicidade:
+
+Reduzir ao mínimo o volume do estoque da matéria-prima em transformação, como também do produto acabado.
+
+3. Princípio da produtividade:
+
+Aumentar a capacidade de produção do operário por meio da especialização da tarefa e uso da linha de montagem móvel, permitindo-lhe reduzir custos operacionais e ao mesmo tempo gerar mais lucros para a empresa.
+
+QUAIS FORAM OS BENEFÍCIOS DA PRODUÇÃO INDUSTRIAL?
+
+Padronizou a qualidade dos produtos.
+Permitiu produzir em série (milhões de unidades de um mesmo produto).
+Reduziu os custos de produção, tornando os produtos acessíveis a muitas pessoas e aumentando, como consequência, o lucro das empresas.
+A TEORIA CLÁSSICA DA ADMINISTRAÇÃO
+
+Não é possível estudar a teoria de Taylor sem estudar a de Fayol, pois ambos são considerados os pais da moderna Administração. Enquanto Frederick Taylor desenvolveu suas teorias sobre Administração com foco especialmente na produção e nas atividades dos operários, Henry Fayol, desenvolveu seus estudos focando na organização como um todo.
+
+ 
+
+Henri Fayol e os 14 princípios da Administração
+
+Henry Fayol, engenheiro, desenvolveu suas pesquisas na França (1841-1925), foi considerado o pai da ideia sobre a organização estrutural das empresas por funções, identificando seis funções ou áreas básicas de uma empresa: produção, comercial, financeira, contábil, administrativa e segurança.
+
+ 
+
+OS CATORZE PRINCÍPIOS DE ADMINISTRAÇÃO PROPOSTOS POR FAYOL
+
+Entre as principais contribuições de Fayol estão seus catorze princípios de Administração. Você vai conhecê-los a seguir!
+
+
+
+
+ 
+
+1. Divisão do trabalho: tem por ﬁnalidade produzir mais e melhor, com o mesmo esforço.
+
+2. Autoridade e responsabilidade: a autoridade consiste no direito de mandar e no poder de se fazer obedecer, mas só se concebe se acompanhada da responsabilidade daquele que exerce o cargo de cheﬁa, ou seja, a possibilidade de este ser premiado ou punido pelos resultados obtidos.
+
+3. Disciplina: consiste essencialmente na obediência, assiduidade, atividade, na presença e nos sinais exteriores de respeito demonstrados de acordo com as convenções estabelecidas pela empresa.
+
+4. Unidade de comando: para execução de qualquer atividade, uma pessoa ou equipe deve receber ordens apenas de um chefe.
+
+5. Unidade de direção: um só chefe e um só programa para um conjunto de operações que visam ao mesmo objetivo.
+
+6. Subordinação do interesse particular ao interesse geral: o interesse de cada proﬁssional não pode prevalecer sobre o interesse da empresa, da mesma forma que, num governo, o interesse público deve estar acima dos interesses particulares, para o bem de todos.
+
+7. Remuneração do pessoal: a remuneração deve ser equitativa e satisfazer tanto ao pessoal quanto à empresa.
+
+8. Centralização: o seu grau é variável, dependendo de cada situação e empresa. É papel do chefe encontrar o equilíbrio entre centralização e descentralização, garantindo a execução das atividades, mas aproveitando a experiência dos proﬁssionais.
+
+9. Hierarquia: é imposta pela unidade de comando e pela necessidade de uma transmissão segura das diretrizes de trabalho.
+
+10. Ordem: cada pessoa deve ter sua função, e cada função deve ser ocupada por uma pessoa. É importante que não haja confusão de papéis.
+
+11. Equidade: para que o pessoal trabalhe motivado, é importante que seja tratado com equidade. Trata-se da combinação de benevolência e justiça, sem excluir a energia ou o rigor.
+
+12. Estabilidade do pessoal: uma pessoa precisa de tempo para iniciar-se em uma nova função e chegar a desempenhá-la bem. Se for afastada antes de estar completamente treinada, não terá tido tempo de prestar um bom serviço. Ao mesmo tempo, se houver muita troca de proﬁssionais em uma função, esta nunca será bem desempenhada.
+
+13. Iniciativa: a possibilidade de conceber e executar planos de trabalho é um dos fatores mais importantes e estimulantes da atividade humana, e isso deve ser encorajado em todos os níveis.
+
+14. União do pessoal: como diz o ditado, “a união faz a força”. A harmonia e união do pessoal são forças importantes para a empresa.
+
