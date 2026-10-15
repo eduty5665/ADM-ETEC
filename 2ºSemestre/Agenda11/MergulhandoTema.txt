@@ -1,0 +1,90 @@
+MERGULHANDO NO TEMA
+
+Administração da Produção e Operações é o nome que se dá à administração do sistema de produção de uma organização, que transforma diversos insumos – como materiais, trabalho da mão de obra, máquinas, prédios, tecnologia, recursos ﬁnanceiros etc. – em produtos e serviços.
+
+image.png
+
+
+Tecnologia sob o ponto de vista econômico, é um conjunto de conhecimentos e informações de diferentes origens e tipos, organizados e aplicados na produção de bens e serviços.
+
+Para alguns autores, “tecnologia é o conhecimento cientíﬁco transformado em técnica, que, por sua vez, irá ampliar a possibilidade de produção de novos conhecimentos cientíﬁcos”.
+
+A dimensão física da tecnologia se traduz em máquinas e equipamentos, toda a estrutura de produção desenvolvida por meio da aplicação do conhecimento do ser humano.
+A dimensão abstrata se relaciona ao saber fazer, é o conhecimento aplicado nos processos de trabalho, nos métodos, rotinas e procedimentos.
+Com relação ao maior ou menor uso que se faz da tecnologia, a operação de uma empresa pode ser:
+
+Intensiva em tecnologia: baseia-se principalmente em máquinas, e utiliza largamente a mecanização e a automação. Um exemplo são os parques de produção de indústrias farmacêuticas.
+Intensiva em mão de obra: baseia-se principalmente no trabalho manual e físico de operários. Um exemplo é a construção civil.
+Mecanização é a substituição do trabalho braçal do homem por máquinas e equipamentos.
+
+Automação é a substituição do trabalho mental do homem pelo trabalho da máquina ou do computador. As máquinas passam a fazer o trabalho mental, como, por exemplo, selecionar peças, controlar procedimentos, etc. 
+
+
+LOCALIZAÇÃO INDUSTRIAL
+
+O nome Localização Industrial é dado à área de pesquisa e análise que deﬁne métodos e critérios para escolher o local mais adequado para uma fábrica.
+
+
+Arranjo físico de produto
+
+Também chamado de layout linear, o arranjo físico de produto segue uma ordem linear desde a entrada da matéria- prima até a saída do produto acabado. A trajetória dentro do espaço segue as etapas de produção do produto.
+
+Arranjo físico de processo
+Também chamado de layout funcional, organiza-se a partir das diversas funções ou seções (seções de máquinas e equipamentos, por exemplo) que participam do processo de produção.
+
+
+
+
+Embora muitos arranjos físicos sejam em linha reta, esta nem sempre é a melhor posição.
+
+Assim, os arranjos físicos podem assumir formatos de L, O, S ou U.
+
+Cada um dos sistemas de produção, ou seja, sob encomenda, em lote ou por produção contínua, pode ter um arranjo físico com características próprias.
+
+Layout para produção sob encomenda
+
+
+
+
+ 
+
+Por exemplo, na produção sob encomenda, o arranjo físico é feito com base no produto. Como o desenvolvimento do produto pode ser complexo e demorado, as máquinas e equipamentos são colocados à sua volta, enquanto o produto, que está sendo montado, ﬁca no centro.
+
+Layout para produção em lotes
+
+
+
+
+Na produção em lotes, cujo conceito você aprendeu na agenda 10 deste módulo, as máquinas e equipamentos são organizados por processo, podendo adaptar-se a diferentes produtos.
+
+Layout para produção contínua
+
+
+
+
+Já na produção contínua, o arranjo físico distribui as máquinas e equipamentos em locais previamente determinados. Então os produtos/serviços ﬂuem continuamente no decorrer do processo produtivo, que é sempre o mesmo.
+
+Os diagramas servem apenas para ilustrar a disposição das máquinas no espaço físico. Não se esqueça de que há pessoas fazendo toda a engrenagem funcionar!
+
+Se você tiver alguma dúvida sobre os conceitos de produção sob encomenda, em lotes ou produção contínua, volte a ler a agenda 10 deste módulo.
+
+CUIDANDO DA FÁBRICA: A MANUTENÇÃO DAS MÁQUINAS
+
+O objetivo da manutenção é manter máquinas, equipamentos e instalações em perfeito estado, para que não apresentem problemas, e como isso não interromper o fluxo de produção nem reduzir a eficiência total.
+
+
+TIPOS DE MANUTENÇÃO
+
+Nesta agenda vamos apresentar três tipos de manutenção: preditiva, preventiva e a  corretiva.
+
+a) Manutenção preditiva - é considerada uma estratégia de manutenção proativa que usa ferramentas de monitoramento de condições dos equipamentos e instalações por meio de sensores que analisam o cruzamento de dados específicos para detectar vários sinais de deterioração, anomalias e problemas de desempenho dos equipamentos. Com base nessas análises de dados gerados pelos dispositivos em tempo real, pode-se coletar informações e executar algoritmos preditivos pré-criados para estimar, por exemplo:
+
+Quando um equipamento pode falhar.
+Qual sua necessidade de manutenção e tempo de vida útil da peça.
+Portanto, a manutenção preditiva é uma estratégia de programa de manutenção que usa softwares de gestão avançados que tem como principal função antecipar quando a manutenção deve ser realizada no equipamento.
+
+Softwares de gestão com as tecnologias de manutenção preditiva pode incluir métodos de teste não destrutivos, como acústico, infravermelho, análise de óleo, medições de nível de som, análise de vibração, entre outros, que medem e reúnem dados de operações e equipamentos em tempo real por meio de redes de sensores sem fio e interligados por IoT (Internet das Coisas).
+
+b) Manutenção preventiva. Consiste na programação de vistoria de instalações e equipamentos, de modo a prevenir possíveis falhas e paradas inesperadas. A manutenção preventiva não deve prejudicar a rotina da instituição. Para isso, dependendo do caso, precisa ser agendada com antecedência, para não gerar impacto na produção. Lembre-se: equipe e máquina parada é custo desnecessário! É perda de dinheiro!
+
+c) Manutenção corretiva. Ocorre quando as máquinas apresentam problemas. Por isso, é menos indicada, uma vez que está focada em veriﬁcar o funcionamento das máquinas só quando quebram ou param de funcionar. É arriscada, pois leva à interrupção no ﬂuxo de produção. 

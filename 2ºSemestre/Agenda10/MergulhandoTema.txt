@@ -1,0 +1,112 @@
+MERGULHANDO NO TEMA
+
+A Administração da Produção, que vem se tornando cada vez mais complexa e soﬁsticada para atender às crescentes demandas. Por que soﬁsticada? Porque há demandas muito especíﬁcas. Para se chegar a um queijo mais seco, por exemplo, preferido em algumas regiões do país, é preciso controlar a produção segundo determinados critérios. Os processos são diferenciados.
+
+É por meio da Administração da Produção que a empresa utiliza matérias-primas, transforma-as para chegar ao produto acabado ou presta serviços especializados ao mercado. Note que esses recursos são estáticos; eles não têm vida nem são inteligentes.
+
+Dependem de pessoas, que por meio de suas competências e habilidades, utilizam estes recursos.
+
+A empresa, como um todo, trabalha para produzir determinado produto ou prestar algum tipo de serviço. Seu Antônio, por exemplo, quer trabalhar para produzir queijo. E o produto feito ou o serviço prestado constituem o resultado ﬁnal de todas as operações da empresa e o que a empresa sabe fazer de melhor. Mas eles não ﬁcam prontos ao acaso. Por isso existem sistemas a serem adotados. São os sistemas de produção, que você verá a seguir.
+
+Administração da Produção (AP) estuda a produção como um todo, além de planejar, organizar, executar e controlar a produção ou as operações da empresa.
+
+OS SISTEMAS DE PRODUÇÃO
+
+Cada empresa adota um sistema para realizar as suas operações e produzir seus produtos ou prestar serviços da melhor maneira possível, garantindo a eﬁciência e a eﬁcácia.
+
+EFICIÊNCIA E EFICÁCIA
+
+Você já conheceu esses conceitos no módulo 1. Eles são fundamentais quando se trata de Administração. Recordando então:
+
+Eﬁciência é a capacidade de alcançar resultados, com o mínimo de recursos, energia e tempo.
+Eﬁcácia é a capacidade de alcançar os resultados e objetivos propostos.
+
+Um sistema de produção é a maneira pela qual a empresa organiza suas equipes, suas instalações, seus equipamentos e realiza suas operações de produção de maneira interdependente.
+
+image.png
+
+
+
+OS INSUMOS OU ENTRADAS DO SISTEMA
+
+Um sistema de produção recebe insumos na forma de materiais, pessoal, capital, entre outros.
+
+Entre os recursos aplicados em um sistema de produção, há:
+
+Recursos tangíveis: máquinas, materiais, matérias- primas, instalações, suprimentos.
+Recursos intangíveis: tecnologia aplicada, métodos de produção, projeto e desenvolvimento de produtos.
+Recursos humanos: as pessoas que trabalham no processo de transformação, aplicando seus conhecimentos e experiências, suas competências e respectivas habilidades na produção de produtos ou na prestação de serviços.
+
+O PROCESSO DE PRODUÇÃO OU TRANSFORMAÇÃO
+“Na natureza, nada se perde, nada se cria, tudo se transforma.” (Lavoisier, 1789)
+
+
+Conforme disse Lavoisier em relação à natureza, em uma organização acontece a mesma coisa: tudo se transforma. Quando se produzem bens e serviços, há diversos processos de trabalho, atividades fundamentais, que contribuem para que a organização realize suas tarefas e atinja suas metas.
+
+ 
+
+Processo, no setor produtivo, é qualquer atividade, simples ou complexa, ou conjunto de atividades, que tem como objetivo agregar valor a partir de alguns insumos e atingir determinada resultado.
+
+Agregar valor significa aumentar o valor percebido para gerar resultados, ou seja, melhorar as condições para se chegar a algum resultado.
+
+
+
+image.png
+
+AS SAÍDAS
+
+A saída é o resultado do processamento e transformação devolvida ao ambiente. Por exemplo, na produção de queijos, que envolve o processamento e transformação do leite, a saída é o queijo em si. É na relação entradas/saídas que se obtém a indicação da eﬁciência e eﬁcácia do sistema.
+
+Eﬁciência
+
+Quanto maior o volume de saídas para determinado volume de entradas, mais eﬁciente será o sistema. Produzir com eﬁciência signiﬁca:
+
+Utilizar métodos e procedimentos ágeis e rápidos.
+Executar as tarefas de maneira correta.
+Gastar o mínimo possível de recursos.
+Por exemplo: a fábrica produz muitos queijos sem desperdício de insumos. Ela é eﬁciente!
+
+Eficácia
+
+Quanto mais as saídas ou resultados alcancem os objetivos propostos, mais eﬁcaz será o sistema.
+A eﬁcácia está ligada a conseguir os resultados desejados.
+
+
+TIPOS DE SISTEMAS DE PRODUÇÃO
+
+Para produzir com eﬁciência e eﬁcácia, é preciso deﬁnir o sistema de produção mais adequado para o tipo de produto ou serviço. Para isso, são utilizadas técnicas de racionalização.
+
+
+Racionalizar signiﬁca tornar algo mais eﬁcaz usando raciocínio e método. Já as técnicas de racionalização servem para que se estude a forma mais adequada de produzir algo no menor custo possível, e ajudam a determinar os tipos de equipamentos, os métodos e os processos de trabalho mais adequados.
+
+Sistema de Produção sob encomenda
+
+Sistema de Produção em lotes
+Lote de produção é uma quantidade limitada de determinada produto a ser fabricado em determinado período.
+
+SISTEMAS DE PRODUÇÃO CONTÍNUA
+
+O sistema de produção contínua é utilizado por empresas que produzem o mesmo produto por um tempo indeterminado, sem qualquer modiﬁcação.
+
+Nesse caso, é possível produzir em ritmo acelerado e sem interrupções. Neste tipo de sistema é usual que as máquinas não sejam desligadas nunca, ou seja, que as máquinas trabalhem durante 24 horas seguidas. Como exemplos desse tipo de indústria temos: produtos siderúrgicos, papel e celulose, cimento.
+
+Algumas características dos sistemas de produção contínua:
+
+1. O processo de fabricação do produto não sofre alteração ou modificação.
+
+2. A produção é planejada para períodos longos de tempo.
+
+3. O produto é produzido em grandes quantidades.
+
+
+AVANÇOS NOS SISTEMAS DE PRODUÇÃO
+1. Células de produção
+
+2. Internet das Coisas
+
+3. Integração de sistemas
+
+4. Softwares de desenho e elaboração de produtos
+
+5. EDI – “Eletronic Data Interchange”
+
