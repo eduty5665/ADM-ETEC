@@ -1,0 +1,84 @@
+MERGULHANDO NO TEMA
+
+Para garantir o ﬂuxo de produção, é imprescindível ter uma certa quantidade   de   materiais/produtos   disponíveis,   inclusive   uma quantidade extra, para evitar faltas. Essa quantidade extra de material é chamada de estoque. Mas é preciso não se perder nas contas, pois os estoques representam um investimento signiﬁcativo de recursos.
+
+Os estoques são classiﬁcados da mesma forma que os materiais: a organização pode ter estoques de matérias-primas, de materiais em processamento, de produtos acabados e assim por diante.
+Estoque é o conjunto de materiais que uma organização compra e armazena, para suprir as futuras necessidades de produção. A empresa compra uma quantidade de materiais proporcional ao volume de produtos que pretende produzir ou vender.
+
+
+Por que os estoques são importantes?
+
+
+Garantem a disponibilidade dos materiais. Isso evita que a organização tenha que parar a produção por conta de atrasos de fornecedores ou em períodos em que falta algum material ou produto.
+Proporcionam economias. A organização pode comprar quantidades maiores, negociar um preço melhor, ou até aproveitar oportunidades oferecidas por fornecedores.
+Garantem certa ﬂexibilidade à produção, dando cobertura a possíveis erros de planejamento ou a aumentos inesperados de vendas. 
+
+PLANEJANDO O VOLUME DE ESTOQUES
+
+Estoque de segurança é o estoque que a organização mantém para atender a um possível aumento de vendas de um produto – por exemplo, ventiladores, quando ocorre uma onda de calor muito forte durante o verão. 
+
+
+Veja agora, com mais detalhes, cada um desses métodos:
+
+a) Método do consumo do último período
+
+É o mais simples de todos. Trata-se de comprar o mesmo volume de materiais consumido no período anterior – mês, trimestre etc., ou seja, o período deﬁnido de produção.
+
+Se a empresa estiver num período de crescimento de vendas ou de produção, é comum que compre uma quantidade maior do que a do período anterior, já prevendo o crescimento de vendas do período seguinte e a sazonalidade.
+
+
+Sazonalidade é o efeito do aumento de vendas de um produto ou serviço devido à época do ano. Por exemplo:
+
+O consumo de cerveja, refrigerante e sorvete aumenta no verão.
+A procura por pacotes de viagens de turismo aumenta nas férias.
+A compra de casacos aumenta no inverno. 
+
+b) Método da média móvel
+
+É bastante parecido com o método do consumo do último período, já apresentado, porém calcula-se a média dos materiais comprados ou gastos em vários períodos anteriores, em vez de apenas no último período.
+
+
+c) Método da média móvel ponderada
+
+Este método é o mais complexo, pois dá pesos diferentes aos períodos. Se o período é mais recente, o peso é maior. Se o período é mais antigo, o peso é menor. Parece complexo? Então, veja o exemplo a seguir:
+
+
+Entenda o que é “Just in time”
+
+A partir de 1950, as indústrias de automóvel européias e americanas passaram a enfrentar a concorrência das montadoras japonesas, que trouxeram novos métodos de produção. O sistema japonês trouxe grandes avanços e melhorias ao método ocidental.
+
+O método se desenvolveu, inicialmente, na fábrica da Toyota, liderado pelo engenheiro Taiichi Ono. Por isso, fala-se até hoje no Sistema Toyota de Produção – ou toyotismo – para referir-se às técnicas desenvolvidas nessa época.
+
+É importante destacar que, nesse modelo, os estoques são reduzidos a quase zero. Assim, os materiais são encomendados (ou comprados) quando há demanda, e chegam à fábrica no momento em que precisam ser usados.
+
+“Just in time”, numa tradução livre do inglês, signiﬁca “na hora exata”.
+
+Este sistema se estendeu para a maioria das indústrias e centros de distribuição em todas as partes do mundo, pois reduz em muito os custos com armazenagem e melhora consideravelmente a eficiência dos processos logísticos.
+
+Para saber mais, acesse: 
+
+Just in time: significado, conceito e exemplo nas empresas
+
+O setor de compras
+
+Toda organização precisa abastecer-se de materiais e, para isso, precisa contar com um setor de compras.
+
+Em uma organização, o setor de compras cuida de todo o processo de aquisição de materiais que envolve: pesquisar fornecedores, negociar preços e condições de pagamento com os fornecedores, acompanhar o pedido, receber as compras.
+
+
+Fluxo de um processo de compras
+
+
+
+
+O ciclo de compras que você acabou de conhecer vem sendo compreendido como algo muito mais abrangente. É o que se chama de cadeia de suprimentos.
+
+A cadeia de suprimentos
+
+Tradicionalmente, os fornecedores eram encarados como um grupo externo, desvinculado da organização compradora.
+
+Atualmente, a organização tende a funcionar como um sistema aberto, no qual todos atuam em parceria, com um objetivo ﬁnal: oferecer qualidade e valor ao cliente ﬁnal.
+
+Para que uma grande partida de futebol aconteça, não bastam apenas os craques. É preciso um time unido, capaz de agir com o objetivo de vencer; um bom técnico, para armar as jogadas; um bom médico, para avaliar se os jogadores realmente estão preparados para enfrentar o tempo de jogo; uma torcida capaz de motivar a equipe lá no gramado.
+
+O mesmo acontece na cadeia de suprimentos. Dá-se o nome de gestão da cadeia de suprimentos ao processo global que envolve toda a linha de produção: produtor, distribuidor, cliente, fornecedor... Cada um desempenhando um importante papel, assim como os jogadores, o técnico, o médico e a torcida do time de futebol.

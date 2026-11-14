@@ -1,0 +1,118 @@
+MERGULHANDO NO TEMA
+
+Materiais são todas as coisas que podem ser contabilizadas e que são utilizadas nas atividades da organização.
+Um item é contabilizável quando medido em quantidade e valor em uma empresa e incluído nos registros contábeis.
+
+
+Administração de Materiais é o processo que envolve planejar, coordenar e controlar as atividades vinculadas à compra, formação de estoques e consumo de materiais na organização.
+
+
+
+
+
+
+CLASSIFICAÇÃO DE MATERIAIS
+
+Os materiais podem ser classiﬁcados de acordo com a forma como vão ser aplicados na produção.
+
+
+
+
+Além dessa forma citada, existem outras classiﬁcações de materiais como, por exemplo:
+
+Materiais de manutenção: são os materiais de consumo, utilizados especialmente para a manutenção ou reparos de equipamentos ou de outros materiais. Por exemplo: óleo lubrificante, peças de reposição, cartuchos de tintas para impressoras, entre outros.
+Materiais improdutivos: são todos os materiais não incorporados ao produto fabricado, mas que contribuem para a produção e prestação de serviços. Por exemplo: em um salão de beleza, o removedor de esmalte, o algodão e a lixa de unha descartável, são exemplos destes tipos de materiais, pois são utilizados para fazer as unhas.
+Materiais de consumo geral: são os materiais utilizados em diversos setores da organização, que servem de apoio para a produção e prestação de serviços. Por exemplo: papel sulfite, caneta, materiais de higiene: papel higiênico, sabonete líquido, dentre outros.
+Classiﬁcação de acordo com o valor
+
+Os materiais também podem ser classiﬁcados de acordo com o valor de seu consumo anual, classificação conhecida como Curva ABC. Veja, por exemplo, a tabela que mostra apenas dez dos materiais utilizados na produção de um determinado produto e o volume que é consumido em um ano de produção.
+
+
+
+
+Repare que a última coluna retrata o percentual de custo de cada material sobre o valor total consumido no ano.
+
+
+
+
+Repare, na tabela, que os três primeiros materiais participam com mais de 60% do custo de materiais, enquanto os três últimos representam menos de 1% do custo total.
+
+Os materiais que representam o maior custo tornam-se estratégicos na organização e, por isso, merecem atenção especial, tanto na escolha do fornecedor como na negociação do preço.
+
+De acordo com sua participação nos custos, os materiais podem ser divididos em três grupos:
+
+
+
+
+Classiﬁcação quanto à importância operacional
+
+Determinado material é imprescindível para o processo de produção? E para a qualidade ﬁnal do produto? Por exemplo, em uma pequena fábrica de bijuterias, é possível produzir sem as imitações de pérolas? Mesmo sendo importantes, existem muitas alternativas disponíveis no mercado, ou há apenas um fornecedor e um produto?
+
+Nesse sentido, podemos classiﬁcar os materiais da seguinte maneira:
+
+
+
+
+Pense no caso de um pequeno salão de beleza: um bonito prendedor de cabelos pode trazer um diferencial, mas é de pouca importância. Há muitos materiais semelhantes. Além disso, a própria cliente pode levar o material quando desejar um penteado especial. Portanto, é C1. Um gel para ﬁnalização de um penteado tem média importância. Aﬁnal, é possível fazer o penteado sem ele e como há produtos similares, como cremes para ﬁnalização, pode ser considerado um C2. Agora imagine que um fabricante lançou uma tinta para cabelos que traz melhores resultados que as concorrentes, e é muito procurada pelos clientes. Por ser um produto novo, não há outro material que o substitua ainda. É, portanto, um C3.
+
+Outros tipos de classiﬁcação de materiais
+
+Os materiais podem ser classiﬁcados ainda de outras maneiras, desde que sejam relevantes para o administrador. Os materiais podem ser classiﬁcados de acordo com a sua:
+
+Perecibilidade – Refere-se a materiais que podem se deteriorar com o passar do tempo, ou até mesmo se tornar desnecessários após um período.
+
+Periculosidade – É importante para a identiﬁcação de materiais como, por exemplo, produtos químicos e gases, que podem oferecer riscos à saúde e à segurança do ser humano e do meio ambiente. Essa classiﬁcação é importante para determinar normas de manuseio, transporte e armazenagem. Você notou que existe essa classiﬁcação no botijão de gás de cozinha? Nos caminhões-tanque que transportam combustíveis, há a classiﬁcação “inﬂamável”, indicando que o conteúdo poderá pegar fogo caso seja exposto a situações de risco, como, por exemplo, se o aquecimento do veículo for intenso.
+
+
+ATIVIDADES BÁSICAS DA ADMINISTRAÇÃO DE MATERIAIS
+Agora que você já viu que existem diversas classiﬁcações de materiais, conheça as atividades básicas que fazem parte desta área da Administração.
+
+Compra: comprar os materiais necessários para as operações da organização.
+Recebimento: receber os materiais comprados, veriﬁcando se as entregas estão de acordo com o que foi pedido e em perfeito estado.
+Cadastramento: registrar todos os materiais que chegam à organização.
+Armazém/Almoxarifado: guardar os materiais, garantindo que ﬁquem em perfeitas condições até serem usados.
+Gestão: gerenciar os estoques de materiais, garantindo que todos estejam disponíveis e em boas condições quando necessários.
+Inventário físico: fazer o controle dos materiais, veriﬁcando as quantidades compradas, as consumidas e aquelas que se mantêm em estoque, e se estão de acordo com os controles contábeis.
+
+
+
+PRINCIPAIS ATIVIDADES REALIZADAS NO ARMAZÉM/ALMOXARIFADO:
+
+Receber, veriﬁcar a quantidade e a qualidade das mercadorias recebidas e registrar as informações nos meios disponibilizados pela empresa. Por exemplo: planilhas eletrônicas e softwares de gestão de armazéns.
+Estocar e movimentar adequadamente os materiais.
+Evitar divergências na contagem de materiais.
+Assegurar que o material necessário esteja disponível quando for preciso e na quantidade correta.
+Evitar perdas, roubos ou deterioração. 
+Etapas de trabalho
+
+
+
+
+ 
+
+Apenas empregados formalmente autorizados pela organização podem manipular o armazém/almoxarifado.
+Os materiais não devem entrar no armazém/almoxarifado se não estiverem acompanhados da nota ﬁscal de compra, que é dirigida à Contabilidade da empresa.
+A saída de materiais só pode acontecer mediante apresentação de uma requisição assinada por pessoa responsável.
+INVENTÁRIO FÍSICO
+
+Inventário físico é a atividade de controle de materiais em que se recontam as quantidades compradas, as consumidas e aquelas que se mantêm em estoque, veriﬁcando se estão de acordo com os controles contábeis.
+
+Você verá mais detalhes sobre inventário no módulo 3 deste curso.
+
+Entenda o que é Logística
+
+Como você viu até agora, para que produtos sejam produzidos e serviços sejam prestados, existe um grande ﬂuxo de materiais, equipamentos e informações, que precisam estar disponíveis e serem manipulados nos momentos certos, exigindo uma gestão complexa, baseada em estudos, análises e controles. A gestão desses ﬂuxos dentro das organizações é conhecido como logística.
+
+Logística é o processo de planejar, implementar e controlar procedimentos para uma gestão eﬁciente e efetiva do transporte e armazenamento de bens incluindo serviços, e as informações a eles relacionadas, do ponto de origem até o ponto de consumo, de modo a atender às demandas dos consumidores.
+
+Essa área cuida da execução de processos de planejamento, procedimentos e controles de programação dos seguintes itens:
+
+Produção de bens e serviços.
+Manutenção de máquinas e equipamentos.
+Compras.
+Recebimento e armazenamento, movimentação, expedição e distribuição de materiais e produtos.
+Armazenamento, distribuição e transporte são as atividades estratégicas da Logística.
+
+Tudo isso utilizando tecnologias de informação pertinentes, com o objetivo de atingir o máximo de eﬁciência, economia, agilidade e transparência.
+
+ 
